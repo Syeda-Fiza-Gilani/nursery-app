@@ -3,7 +3,7 @@
 A plant-shop web app built with React, Redux Toolkit, and Vite. You can browse aromatic and medicinal plants, add them to a cart, and change quantities with live totals. I built it to practice global state management in React.
 
 <img width="1611" height="892" alt="Paradise Nursery screenshot" src="https://github.com/user-attachments/assets/1895c2f0-d9ec-4721-b1a6-35bf8c414930" />
-
+   
 ## Features
 - Landing page with a hero banner and a "Shop Now" button
 - 8 plants in two categories: aromatic (Lavender, Rosemary, Mint, Jasmine) and medicinal (Aloe Vera, Tulsi, Neem, Ashwagandha)
